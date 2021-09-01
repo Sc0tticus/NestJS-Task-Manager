@@ -39,3 +39,11 @@ ForumService
 ]
 })
 export class ForumModule {}
+
+- A module is a schematic.
+
+CH10: Creating a Tasks Module
+nest g --help //list of commands
+
+#Syntax
+nest g module tasks
